@@ -1,72 +1,22 @@
-Hi, I'm Zabeeh Ullah 👋
-Software Engineer | Full-Stack & Front-End Web Developer | WordPress Developer
+# Zabeeh Ullah — Software Engineer & Web Developer
 
-I am a Software Engineer and Web Developer based in Peshawar, Khyber Pakhtunkhwa, Pakistan, specializing in building fast, responsive web applications and custom web solutions using React.js, Node.js, Express.js, JavaScript, HTML5, CSS3, and WordPress.
+I’m **Zabeeh Ullah**, a software engineer and web developer based in Peshawar, Pakistan. I build responsive web experiences and practical web applications with JavaScript, React, Node.js, HTML, CSS, and WordPress.
 
-🌐 Live Portfolio Website: [https://zabeeh-ullah.netlify.app/](https://www.google.com/search?q=https://zabeeh-ullah.netlify.app/)
+- **Portfolio:** [zabeeh-ullah.netlify.app](https://zabeeh-ullah.netlify.app/)
+- **CV:** [View my CV](https://zabeeh-ullah-dev.github.io/zabeeh-ullah-cv/)
+- **GitHub:** [Zabeeh-Ullah-Dev](https://github.com/Zabeeh-Ullah-Dev)
 
-🚀 Technical Skills & Tech Stack
+## Featured projects
 
-* Front-End Development: React.js, JavaScript (ES6+), HTML5, CSS3, Responsive UI/UX Design
-* Back-End Development: Node.js, Express.js, RESTful APIs
-* CMS & Custom Web Solutions: WordPress, Elementor, Custom Web Development
-* Tools & Workflow: Git, GitHub, GitHub Pages, Netlify, VS Code, Web SEO Optimization
+- **[Pakistan GK Challenge](https://github.com/Zabeeh-Ullah-Dev/Pakistan-GK-Challenge)** — Responsive Pakistan general-knowledge web app built with HTML, CSS, and JavaScript. [Live demo](https://zabeeh-ullah-dev.github.io/Pakistan-GK-Challenge/).
+- **[Developer portfolio](https://github.com/Zabeeh-Ullah-Dev/Portfolio)** — My personal web developer portfolio. [Live portfolio](https://zabeeh-ullah.netlify.app/).
+- **[Online CV](https://github.com/Zabeeh-Ullah-Dev/zabeeh-ullah-cv)** — Personal CV and resume website. [View online](https://zabeeh-ullah-dev.github.io/zabeeh-ullah-cv/).
+- **[Charsadda Chappal e-commerce website](https://github.com/Zabeeh-Ullah-Dev/Charsadda-Chappal-E-Commerce-Website)** — Responsive storefront concept with product listings and cart functionality. [Live demo](https://zabeeh-ullah-dev.github.io/Charsadda-Chappal-E-Commerce-Website/).
+- **[Safar-e-Pakistan travel website](https://github.com/Zabeeh-Ullah-Dev/Safar-e-Pakistan-Travel-website)** — Travel website highlighting destinations in Pakistan. [Live demo](https://zabeeh-ullah-dev.github.io/Safar-e-Pakistan-Travel-website/).
+- **[Tic-Tac-Toe game](https://github.com/Zabeeh-Ullah-Dev/Tic-Tac-Toe-Game)** — Interactive browser game with player-vs-player and computer modes. [Live demo](https://zabeeh-ullah-dev.github.io/Tic-Tac-Toe-Game/).
 
-⭐ Featured Projects & Live Demos
+## Skills
 
-1. 🌐 Personal Developer Portfolio
-* Live Website: [https://zabeeh-ullah.netlify.app/](https://www.google.com/search?q=https://zabeeh-ullah.netlify.app/)
-* GitHub Repo: [https://github.com/Zabeeh-Ullah-Dev/Portfolio](https://github.com/Zabeeh-Ullah-Dev/Portfolio)
+JavaScript · React · Node.js · Express.js · HTML5 · CSS3 · WordPress · Responsive web design · Git · GitHub Pages · Netlify
 
-
-2. 📄 Online CV & Resume Website
-* Live Website: [https://zabeeh-ullah-dev.github.io/zabeeh-ullah-cv/](https://zabeeh-ullah-dev.github.io/zabeeh-ullah-cv/)
-* GitHub Repo: [https://github.com/Zabeeh-Ullah-Dev/zabeeh-ullah-cv](https://github.com/Zabeeh-Ullah-Dev/zabeeh-ullah-cv)
-
-
-3. 👞 Charsadda Chappal E-Commerce Website
-* Live Website: [https://zabeeh-ullah-dev.github.io/Charsadda-Chappal-E-Commerce-Website/](https://zabeeh-ullah-dev.github.io/Charsadda-Chappal-E-Commerce-Website/)
-* GitHub Repo: [https://github.com/Zabeeh-Ullah-Dev/Charsadda-Chappal-E-Commerce-Website](https://github.com/Zabeeh-Ullah-Dev/Charsadda-Chappal-E-Commerce-Website)
-
-
-4. 🏔️ Safar-e-Pakistan Travel Website
-* Live Website: [https://zabeeh-ullah-dev.github.io/Safar-e-Pakistan-Travel-website/](https://zabeeh-ullah-dev.github.io/Safar-e-Pakistan-Travel-website/)
-* GitHub Repo: [https://github.com/Zabeeh-Ullah-Dev/Safar-e-Pakistan-Travel-website](https://github.com/Zabeeh-Ullah-Dev/Safar-e-Pakistan-Travel-website)
-
-
-5. 🛒 Simple Shopping Cart
-* Live Website: [https://zabeeh-ullah-dev.github.io/Simple-Shopping-Cart/](https://zabeeh-ullah-dev.github.io/Simple-Shopping-Cart/)
-* GitHub Repo: [https://github.com/Zabeeh-Ullah-Dev/Simple-Shopping-Cart](https://github.com/Zabeeh-Ullah-Dev/Simple-Shopping-Cart)
-
-
-6. ⚡ Electricity Bill Calculator
-* Live Website: [https://zabeeh-ullah-dev.github.io/Electricity-Bill-Calculator/](https://zabeeh-ullah-dev.github.io/Electricity-Bill-Calculator/)
-* GitHub Repo: [https://github.com/Zabeeh-Ullah-Dev/Electricity-Bill-Calculator](https://github.com/Zabeeh-Ullah-Dev/Electricity-Bill-Calculator)
-
-
-7. 🎓 Student Grade Calculator
-* Live Website: [https://zabeeh-ullah-dev.github.io/Grade-Calculator-Html-Css-JavaScript/](https://zabeeh-ullah-dev.github.io/Grade-Calculator-Html-Css-JavaScript/)
-* GitHub Repo: [https://github.com/Zabeeh-Ullah-Dev/Grade-Calculator-Html-Css-JavaScript](https://github.com/Zabeeh-Ullah-Dev/Grade-Calculator-Html-Css-JavaScript)
-
-
-8. 🎮 Tic-Tac-Toe Game
-* Live Website: [https://zabeeh-ullah-dev.github.io/Tic-Tac-Toe-Game/](https://zabeeh-ullah-dev.github.io/Tic-Tac-Toe-Game/)
-* GitHub Repo: [https://github.com/Zabeeh-Ullah-Dev/Tic-Tac-Toe-Game](https://github.com/Zabeeh-Ullah-Dev/Tic-Tac-Toe-Game)
-
-
-9. 🎯 Number Guessing Game
-* Live Website: [https://zabeeh-ullah-dev.github.io/Number-Guessing-Game/](https://zabeeh-ullah-dev.github.io/Number-Guessing-Game/)
-* GitHub Repo: [https://github.com/Zabeeh-Ullah-Dev/Number-Guessing-Game](https://github.com/Zabeeh-Ullah-Dev/Number-Guessing-Game)
-
-
-
-📫 Connect With Zabeeh Ullah
-
-* GitHub Profile: [https://github.com/Zabeeh-Ullah-Dev](https://github.com/Zabeeh-Ullah-Dev)
-* Portfolio: [https://zabeeh-ullah.netlify.app/](https://www.google.com/search?q=https://zabeeh-ullah.netlify.app/)
-* Online CV: [https://zabeeh-ullah-dev.github.io/zabeeh-ullah-cv/](https://zabeeh-ullah-dev.github.io/zabeeh-ullah-cv/)
-* LinkedIn: [https://www.linkedin.com/in/zabeeh-ullah-1b6094382](https://www.google.com/search?q=https://www.linkedin.com/in/zabeeh-ullah-1b6094382)
-* Facebook: [https://www.facebook.com/zabeeh.ullah.894652](https://www.google.com/search?q=https://www.facebook.com/zabeeh.ullah.894652)
-* Email: zabeehullah2005@gmail.com
-
-⭐ Feel free to explore my repositories and drop a star on any project you find useful!
+I’m interested in building useful web products, improving my engineering skills, and collaborating on thoughtful projects.
