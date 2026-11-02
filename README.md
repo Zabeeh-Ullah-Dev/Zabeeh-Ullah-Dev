@@ -1,6 +1,6 @@
-# Zabeeh Ullah — Software Engineer & Web Developer
+# Zabeeh Ullah (@Zabeeh-Ullah-Dev) — Software Engineer & Web Developer
 
-I’m **Zabeeh Ullah**, a software engineer and web developer based in Peshawar, Pakistan. I build responsive web experiences and practical web applications with JavaScript, React, Node.js, HTML, CSS, and WordPress.
+This is the official GitHub profile of **Zabeeh Ullah** (@[Zabeeh-Ullah-Dev](https://github.com/Zabeeh-Ullah-Dev)), a software engineer and web developer based in Peshawar, Pakistan. I build responsive web experiences and practical web applications with JavaScript, React, Node.js, HTML, CSS, and WordPress.
 
 - **Portfolio:** [zabeeh-ullah.netlify.app](https://zabeeh-ullah.netlify.app/)
 - **CV:** [View my CV](https://zabeeh-ullah-dev.github.io/zabeeh-ullah-cv/)
